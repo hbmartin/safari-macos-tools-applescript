@@ -14,5 +14,5 @@ st-ext 9to5mac
 
 ## Usage
 
-* `st-ext <keyword>` extracts all tabs with URLs or titles matching keyword to a new window. Case Sensitive
-* `st-save`
+* `st-ext <keyword>` extracts all tabs with URLs or titles matching keyword to a new window. *Case sensitive!*
+* `st-md` exports a markdown file with all currently opened tabs to your Desktop folder.
